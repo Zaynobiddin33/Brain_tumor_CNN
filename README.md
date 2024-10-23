@@ -13,8 +13,8 @@ This project is a deep learning-based classifier that predicts whether a patient
 
 ## Project Overview
 Brin MRI scans are an essential tool in diagnosing patient's Brain condition. This model uses a CNN to analyze Brain MRI images and predict whether the patient has:
-- ** a Brain Tumor (yes)**,
-- **Healty Brain (no)**, or 
+- **Brain Tumor (yes)**, or
+- **Healty Brain (no)**,
 
 The model was trained on a labeled dataset of Brain MRIs and demonstrates good performance on the test set. 
 
